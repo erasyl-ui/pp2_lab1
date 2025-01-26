@@ -1,1 +1,4 @@
-carname="Volvo"
+a = 'Hello'
+b = 'World'
+print(a + b)
+answ:HelloWorld
