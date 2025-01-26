@@ -1,0 +1,4 @@
+a = 'Join'
+b = 'the'
+c = 'party'
+answ:print(a + ' ' + b + ' ' + c)
