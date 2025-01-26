@@ -1,0 +1,2 @@
+print(f'The price is {2 + 3} dollars')
+answ:The price is 5 dollars
